@@ -24,5 +24,7 @@ void role2() {
 
 void main() {
   Job job = Job();
+  Pranish pra = Pranish();
+  pra.role();
   job.role();
 }
